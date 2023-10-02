@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+:root {
+  --c-b: #006d77;
+  --c-lg: #e0e2db;
+  --c-db: #022859;
+  --c-gr: #727272;
+  --c-be: #ea9080;
+  --f-o: Oswald;
+  --f-p: Play;
+}
+
+* {
+  font-family: var(--f-p);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  margin-top: auto;
+}
+
+.main {
+  margin-top: 120px;
+}

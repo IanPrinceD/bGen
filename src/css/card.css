@@ -1,0 +1,48 @@
+.NewArrivalsContent {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% / 7) - 13px);
+  gap: 16px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.naCard {
+  height: 450px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 23);
+  padding: 1rem;
+  text-align: center;
+  align-items: center;
+  display: grid;
+  grid-template-rows: 250px 150px;
+  grid-row-gap: 10px;
+}
+.naCard img {
+  width: 90%;
+  object-fit: cover;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  margin-left: 0.8rem;
+}
+button {
+  border-radius: 8px;
+  width: 80px;
+  height: 30px;
+  background-color: #022859;
+  color: #e0e2db;
+  cursor: pointer;
+}
+i {
+  font-size: 22px;
+  margin-left: 20px;
+  padding-top: 10px;
+  color: #022859;
+}
+h4 {
+  padding-top: 5px;
+}
+h3 {
+  padding-top: 5px;
+}
