@@ -896,3 +896,197 @@ export const NewArrivalsCard = [
     Category: 'Laptop',
   },
 ];
+export const FilterLaptop = [{
+    Brand: "ACER",
+    Category: "laptop"
+},
+{
+    Brand: "ASUS",
+    Category: "laptop"
+},
+{
+    Brand: "DELL",
+    Category: "laptop"
+},
+{
+    Brand: "HP",
+    Category: "laptop"
+},
+{
+    Brand: "LENOVO",
+    Category: "laptop"
+},
+{
+    Brand: "MSI",
+    Category: "laptop"
+}]
+
+export const FilterProcessor = [{
+    Brand: "INTEL i3",
+    Category: "processor"
+},
+{
+    Brand: "INTEL i5",
+    Category: "processor"
+},
+{
+    Brand: "INTEL i7",
+    Category: "processor"
+},
+{
+    Brand: "INTEL i9",
+    Category: "processor"
+},
+{
+    Brand: "RYZEN 3",
+    Category: "processor"
+},
+{
+    Brand: "RYZEN 5",
+    Category: "processor"
+},
+{
+    Brand: "RYZEN 7",
+    Category: "processor"
+}]
+
+export const FilterPowerSupply = [{
+    Brand: "GIGABYTE",
+    Category: "powerSupply"
+},
+{
+    Brand: "DEEPCOOL",
+    Category: "powerSupply"
+}]
+
+export const FilterMotherboard = [{
+    Brand: "ASUS",
+    Category: "motherboard"
+},
+{
+    Brand: "ASROCK",
+    Category: "motherboard"
+},
+{
+    Brand: "GIGABYTE",
+    Category: "motherboard"
+},
+{
+    Brand: "COLORFUL",
+    Category: "motherboard"
+},
+{
+    Brand: "MSI",
+    Category: "motherboard"
+},
+{
+    Brand: "BIOSTAR",
+    Category: "motherboard"
+}]
+
+export const FilterCoolingSystem = [{
+    Brand: "DEEPCOOL",
+    Category: "coolingSystem"
+}]
+
+export const FilterSSD = [{
+    Brand: "KINGSTON",
+    Category: "ssd"
+},
+{
+    Brand: "RAMSTA",
+    Category: "ssd"
+},
+{
+    Brand: "SAMSUNG",
+    Category: "ssd"
+}]
+
+export const FilterHDD = [{
+    Brand: "WESTERN DIGITAL",
+    Category: "HDD"
+},
+{
+    Brand: "SEAGATE",
+    Category: "HDD"
+},
+{
+    Brand: "TOSHIBA",
+    Category: "HDD"
+}]
+
+export const FilterRAM = [{
+    Brand: "KINGSTON FURY BEAST",
+    Category: "ram"
+},
+{
+    Brand: "TEAM-GROUP",
+    Category: "ram"
+},
+{
+    Brand: "TEAM ELITE",
+    Category: "ram"
+}]
+
+export const FilterGPU = [{
+    Brand: "MSI GeForce RTX",
+    Category: "GPU"
+},
+{
+    Brand: "ASUS",
+    Category: "GPU"
+},
+{
+    Brand: "GIGABYTE GeForce",
+    Category: "GPU"
+}]
+
+export const FilterDiscount = [{
+    Discount: "10%",
+    Category: "percent"
+},
+{
+    Discount: "20%",
+    Category: "percent"
+},
+{
+    Discount: "30%",
+    Category: "percent"
+},
+{
+    Discount: "40%",
+    Category: "percent"
+},
+{
+    Discount: "50%",
+    Category: "percent"
+},
+{
+    Discount: "NO DISCOUNT",
+    Category: "percent"
+}]
+
+export const FilterRating = [{
+    Rating: "⭐⭐⭐⭐⭐",
+    Category: "star"
+},
+{
+    Rating: "⭐⭐⭐⭐",
+    Category: "star"
+},
+{
+    Rating: "⭐⭐⭐",
+    Category: "star"
+},
+{
+    Rating: "⭐⭐",
+    Category: "star"
+},
+{
+    Rating: "⭐",
+    Category: "star"
+},
+{
+    Rating: "NO DISCOUNT",
+    Category: "star"
+}]

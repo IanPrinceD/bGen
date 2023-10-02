@@ -1,6 +1,7 @@
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import '../css/main.css';
+import Filter from '../components/Filter';
 
 const Product = () => {
   return (
@@ -8,7 +9,14 @@ const Product = () => {
       <Header />
       <div className="body">
         <div className="main">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis facilis non cumque qui eligendi sunt, nulla dignissimos vero rem temporibus tempore dolorum labore dicta illo quidem, magnam ad maxime tempora.
+          <section className="productContainer">
+            <div className='filterContainer'>
+              <Filter/>
+            </div>
+            <div className='cardContainer'>
+
+            </div>
+          </section> 
         </div>
       </div>
       <Footer />

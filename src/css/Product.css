@@ -1,0 +1,76 @@
+.productContainer {
+    display: grid;
+    grid-template-columns: 1fr 7fr;
+    margin: 0 40px;
+}
+.filterContainer {
+    border: solid;
+    border-width: 1px;
+    border-color: #727272;
+}
+.laptopContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.processorContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.powerSupplyContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.motherboardContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.coolingSystemContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.SSDContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.HDDContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.RAMContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.GPUContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.DiscountContainer {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #727272;
+    padding: 10px;
+}
+.RatingContainer {
+    padding: 10px;
+}
+input {
+    padding: 0 5px;
+}
