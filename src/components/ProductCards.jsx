@@ -1,14 +1,15 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { BestSellerCard } from './Productlist'
 import { NewArrivalsCard } from './Productlist'
 import { Produclist } from './Productlist'
+// import {ReactContext, ByteGenius} from '../Context/ReactContext'
 import '../css/card.css'
 
 const ProductCards = () => {
-    const getBSProduct = (id) =>{
-        const BSCard = BestSellerCard.find((BSCard) => BSCard.id === id)
-        console.log(BSCard);
-    }
+    // const getBSProduct = (id) =>{
+    //     const BSCard = BestSellerCard.find((BSCard) => BSCard.id === id)
+    //     console.log(BSCard);
+    // }
 
   return (
     <>
@@ -16,7 +17,7 @@ const ProductCards = () => {
         <h3>BEST SELLER</h3>
         <div className='BestSellerContent'>
             {BestSellerCard.map((BSCard) =>{
-            return <BestSeller {...BSCard} key={BSCard.id} getBSProduct={getBSProduct}/>
+            return <BestSeller {...BSCard} key={BSCard.id}/>
         })}
         </div>   
     </section>
@@ -41,12 +42,13 @@ const ProductCards = () => {
   )
 }
 
-export const BestSeller = (props) =>{
-    const {Image, Model, Rating, Price, getBSProduct, id, number} = props
-    console.log(number);
-    const getSingleProduct = () =>{
-        getBSProduct(id)
-    }
+const BestSeller = (props) =>{
+    const {Image, Model, Rating, Price} = props
+    // const {newFunction, newProduct} = useContext(ByteGenius)
+    // console.log(number);
+    // // const getSingleProduct = () =>{
+    // //     getBSProduct(id)
+    // // }
     return (
       <>
         <section className="bsCard">

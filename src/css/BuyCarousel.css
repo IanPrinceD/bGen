@@ -1,0 +1,22 @@
+.swiper {
+    width: 30%;
+    height: 30%;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    /* background-size: cover; */
+    background-color: white;
+  }
+  
+  .buy-slider-img img {
+    display: block;
+    width: 100%;
+    
+  }
+  
+  @media screen and (max-width: 965px) {
+   .swiper {
+    margin-top: -27px;
+   }
+  }
