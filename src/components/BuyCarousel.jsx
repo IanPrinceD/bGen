@@ -7,7 +7,7 @@ import '../css/BuyCarousel.css'
 
 const BuyCarousel = () => {
   return (
-    <Swiper
+    <Swiper className='swiperBuy'
       modules={[EffectFade, Autoplay, Navigation, Pagination, Scrollbar, A11y]}
       spaceBetween={1}
       slidesPerView={1}
