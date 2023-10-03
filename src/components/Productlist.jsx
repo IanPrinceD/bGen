@@ -151,6 +151,7 @@ export const Produclist = [
     Model: "Acer Nitro 5 AN515-58-55LG",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 60,799.00",
+    Brand: "Acer",
     Category: "laptop",
 },
 {
@@ -158,6 +159,7 @@ export const Produclist = [
     Model: "Acer Nitro AN515-46-R4W2",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 59,999.00",
+    Brand: "Acer",
     Category: "laptop",
 },
 {
@@ -165,6 +167,7 @@ export const Produclist = [
     Model: "Acer Predator Helios 300 PH16-71-95L8",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 129,999.00",
+    Brand: "Acer",
     Category: "laptop",
 },
 {
@@ -172,6 +175,7 @@ export const Produclist = [
     Model: "Acer Predator Helios 300 PH16-71-72VB",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 109,999.00",
+    Brand: "Acer",
     Category: "laptop",
 },
 {
@@ -179,6 +183,7 @@ export const Produclist = [
     Model: "Acer Swift Go EVO SFG14-71-70PY OPI",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 62,699.00",
+    Brand: "Acer",
     Category: "laptop",
 },
 {
@@ -186,6 +191,7 @@ export const Produclist = [
     Model: "Asus FA617NS-N3079W TUF",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 79,999.00",
+    Brand: "Asus",
     Category: "laptop",
 },
 {
@@ -193,6 +199,7 @@ export const Produclist = [
     Model: "Asus FX506HC-HN111W",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 53,995.00",
+    Brand: "Asus",
     Category: "laptop",
 },
 {
@@ -200,6 +207,7 @@ export const Produclist = [
     Model: "Asus X1402ZA-EB110WS+OFFC H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 38,999.00",
+    Brand: "Asus",
     Category: "laptop",
 },
 {
@@ -207,6 +215,7 @@ export const Produclist = [
     Model: "Asus X1605ZA-MB236WS+OFFC H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 50,999.00",
+    Brand: "Asus",
     Category: "laptop",
 },
 {
@@ -214,6 +223,7 @@ export const Produclist = [
     Model: "Asus M1605YA-MB155WS+OFFC H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 37,999.00",
+    Brand: "Asus",
     Category: "laptop",
 },
 {
@@ -221,6 +231,7 @@ export const Produclist = [
     Model: "Dell IN3510 Platinum Silver + OFFC H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 32,999.00",
+    Brand: "Dell",
     Category: "laptop",
 },
 {
@@ -228,6 +239,7 @@ export const Produclist = [
     Model: "Dell IN3511 Platinum Silver + OFFC H&S 15.6 fhd",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 54,999.00",
+    Brand: "Dell",
     Category: "laptop",
 },
 {
@@ -235,6 +247,7 @@ export const Produclist = [
     Model: "Dell IN5410 Peach Dust +OFFC H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 52,999.00",
+    Brand: "Dell",
     Category: "laptop",
 },
 {
@@ -242,6 +255,7 @@ export const Produclist = [
     Model: "Dell IN5510 Platinum Silver + OFFC H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 48,999.00",
+    Brand: "Dell",
     Category: "laptop",
 },
 {
@@ -249,6 +263,7 @@ export const Produclist = [
     Model: "Dell XPS 17 9710 TouchScreen Platimun Silver",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 199,999.00",
+    Brand: "Dell",
     Category: "laptop",
 },
 {
@@ -256,6 +271,7 @@ export const Produclist = [
     Model: "HP 14-DV2029TX Warm Gold +H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 57,999.00",
+    Brand: "HP",
     Category: "laptop",
 },
 {
@@ -263,6 +279,7 @@ export const Produclist = [
     Model: "HP 15-FC0049AU +OFFC H&S Natural Silver",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 38,999.00",
+    Brand: "HP",
     Category: "laptop",
 },
 {
@@ -270,6 +287,7 @@ export const Produclist = [
     Model: "HP 15S-FQ2728TU Natural Silver + H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 32,999.00",
+    Brand: "HP",
     Category: "laptop",
 },
 {
@@ -277,6 +295,7 @@ export const Produclist = [
     Model: "HP ENVY X360 13-BF0110TU +OFFC H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 89,999.00",
+    Brand: "HP",
     Category: "laptop",
 },
 {
@@ -284,6 +303,7 @@ export const Produclist = [
     Model: "HP X360 14-EK0121TU Space Blue +OFFC H&S",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 49,999.00",
+    Brand: "HP",
     Category: "laptop",
 },
 {
@@ -291,6 +311,7 @@ export const Produclist = [
     Model: "Legion Pro 7i",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 187,985.75",
+    Brand: "Lenovo",
     Category: "laptop",
 },
 {
@@ -298,6 +319,7 @@ export const Produclist = [
     Model: "Legion Slim 7i",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 144,995.01",
+    Brand: "Lenovo",
     Category: "laptop",
 },
 {
@@ -305,6 +327,7 @@ export const Produclist = [
     Model: "LOQ 15",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 77,995.01",
+    Brand: "Lenovo",
     Category: "laptop",
 },
 {
@@ -312,6 +335,7 @@ export const Produclist = [
     Model: "ThinkPad E14 G5",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 67,995.01",
+    Brand: "Lenovo",
     Category: "laptop",
 },
 {
@@ -319,6 +343,7 @@ export const Produclist = [
     Model: "ThinkPad E16 G1",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 72,995.00",
+    Brand: "Lenovo",
     Category: "laptop",
 },
 {
@@ -326,6 +351,7 @@ export const Produclist = [
     Model: "MSI CYBORG 15 A12VE-444PH",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 70,995.00",
+    Brand: "MSI",
     Category: "laptop",
 },
 {
@@ -333,6 +359,7 @@ export const Produclist = [
     Model: "MSI GF63 THIN 11UCX - 1479PH",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 43,999.00",
+    Brand: "MSI",
     Category: "laptop",
 },
 {
@@ -340,6 +367,7 @@ export const Produclist = [
     Model: "MSI GF63 THIN 12VE-088PH",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 69,995.00",
+    Brand: "MSI",
     Category: "laptop",
 },
 {
@@ -347,6 +375,7 @@ export const Produclist = [
     Model: "MSI Modern 14 C11M-220PH Beige",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 28,999.00",
+    Brand: "MSI",
     Category: "laptop",
 },
 {
@@ -354,6 +383,7 @@ export const Produclist = [
     Model: "MSI Modern 15 B11M-027PH Classic Black",
     Rating: "⭐⭐⭐⭐⭐",
     Price: "PHP 37,999.00",
+    Brand: "MSI",
     Category: "laptop",
 },
 {

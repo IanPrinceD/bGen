@@ -1,0 +1,12 @@
+.addButton, .minusButton{
+    width: 2%;
+    height: 5%;
+    margin: 8px;
+}
+.detailsContainer {
+    display: grid;
+    grid-template-rows: 3fr 3fr;
+}
+.detailsContainer {
+    text-align: center;
+}
