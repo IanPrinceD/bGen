@@ -1,10 +1,16 @@
 .productContainer {
     display: grid;
     grid-template-columns: 1fr 7fr;
-    margin: 0 40px;
+    grid-column-gap: 15px;
+    margin: 80px 30px;
+}
+.productContainer h1 {
+    position: absolute;
+    top: 150px;
 }
 .filterContainer {
     border: solid;
+    height: 1440px;
     border-width: 1px;
     border-color: #727272;
 }
