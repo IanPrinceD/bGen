@@ -1,0 +1,17 @@
+[
+ {
+   "image": "../src/assets/images/PNG/Product/Laptop/Acer/Predator H elios 300 PH16-71-95L8/Acer-Helios-300-PH16-71-95L8 (1).png",
+   "model": "Acer Predator Helios 300 PH16-71-95L8",
+   "rating": "⭐⭐⭐⭐⭐",
+   "price": "PHP 129,999.00",
+   "category": "laptop"
+ },
+ {
+   "image": "../src/assets/images/PNG/Product/Laptop/Acer/Swift GO EVO Laptop SFG-14-71-70PY/swift-Go-EVO (1).png",
+   "model": "Acer Swift Go EVO SFG14-71-70PY OPI",
+   "rating": "⭐⭐⭐⭐⭐",
+   "price": "PHP 62,699.00",
+   "category": "laptop"
+ }
+
+]
