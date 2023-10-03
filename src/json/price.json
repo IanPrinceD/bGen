@@ -1,0 +1,974 @@
+[
+  {
+    "image": "../src/assets/images/PNG/Product/Cooling/DEEPCOOL DP-FRGB-RF120-3C RF 120-3 in 1 RGB Fans.png",
+    "model": "DEEPCOOL DP-FRGB-RF120-3C RF 120-3 in 1 RGB Fans",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 1,699.00",
+    "brand": "Deepcool",
+    "category": "Cooling",
+    "id": 1
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Cooling/Deepcool FC120 3 in 1 RGB.png",
+    "model": "Deepcool FC120 3 in 1 RGB Silent Operation Up to 1800 RPM Fan Speed PWM Cooling Fan White or Black",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 1,530.00",
+    "brand": "Deepcool",
+    "category": "Cooling",
+    "id": 2
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Cooling/DEEPCOOL FK120 Fan.png",
+    "model": "DEEPCOOL FK120 Fan (R-FK120-BKNPF1-G-1)",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 465.50",
+    "brand": "Deepcool",
+    "category": "Cooling",
+    "id": 3
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Cooling/DEEPCOOL Gammaxx L360 ARGB.png",
+    "model": "DEEPCOOL Gammaxx L360 ARGB liquid cooling system with Anti-Leak Technology DP-H12CF-GL360-ARGB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 4,899.00",
+    "brand": "Deepcool",
+    "category": "Cooling",
+    "id": 4
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Cooling/DEEPCOOL Ice Edge Mini FS V2.0 CPU Cooler.png",
+    "model": "DEEPCOOL Ice Edge Mini FS V2.0 CPU Cooler",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 299.00",
+    "brand": "Deepcool",
+    "category": "Cooling",
+    "id": 5
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Cooling/DEEPCOOL LS520 SE 240mm Liquid CPU Cooler.png",
+    "model": "DEEPCOOL LS520 SE 240mm Liquid CPU Cooler",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,328.00",
+    "brand": "Deepcool",
+    "category": "Cooling",
+    "id": 6
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/GPU/ASUS DUAL GeForce RTX 4060 Ti 8GB.png",
+    "model": "ASUS DUAL GeForce RTX 4060 Ti 8GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 27,510.00",
+    "brand": "Asus",
+    "category": "GPU",
+    "id": 7
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/GPU/ASUS TUF Gaming GeForce RTX 4080 (2).png",
+    "model": "ASUS TUF Gaming GeForce RTX 4080 16GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 84,200.00",
+    "brand": "Asus",
+    "category": "GPU",
+    "id": 8
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/GPU/Gigabyte GeForce RTX 4070 Ti (1).png",
+    "model": "Gigabyte GeForce RTX 4070 Ti Gaming OC V2 12GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 53,150.00",
+    "brand": "Gigabyte",
+    "category": "GPU",
+    "id": 9
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/GPU/Gigabyte GeForce RTX 4070 WINDFORCE 12G (2).png",
+    "model": "Gigabyte GeForce RTX 4070 WINDFORCE 12GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 43,995.00",
+    "brand": "Gigabyte",
+    "category": "GPU",
+    "id": 10
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/GPU/MSI GeForce RTX 4060 GAMING X 8GB.png",
+    "model": "MSI GeForce RTX 4060 GAMING X 8GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 20,630.00",
+    "brand": "MSI",
+    "category": "GPU",
+    "id": 11
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/GPU/MSI GeForce RTX 4090 SUPRIM X 24G (2).png",
+    "model": "MSI GeForce RTX 4090 SUPRIM X 24GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 116,995.00",
+    "brand": "MSI",
+    "category": "GPU",
+    "id": 12
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/HDD/Seagate HDD green 1TB.png",
+    "model": "Seagate HDD green 1TB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,285.00",
+    "brand": "Seagate",
+    "category": "HDD",
+    "id": 13
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/HDD/Seagate HDD green 2TB.png",
+    "model": "Seagate HDD green 2TB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,779.00",
+    "brand": "Seagate",
+    "category": "HDD",
+    "id": 14
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/HDD/Seagate HDD green 500GB.png",
+    "model": "Seagate HDD green 500GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 1,149.00",
+    "brand": "Seagate",
+    "category": "HDD",
+    "id": 15
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/HDD/Toshiba HDD 1TB.png",
+    "model": "Toshiba HDD 1TB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,329.00",
+    "brand": "Toshiba",
+    "category": "HDD",
+    "id": 16
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/HDD/Toshiba HDD 2TB.png",
+    "model": "Toshiba HDD 2TB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,849.00",
+    "brand": "Toshiba",
+    "category": "HDD",
+    "id": 17
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/HDD/Toshiba HDD 500GB.png",
+    "model": "Toshiba HDD 500GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 1,253.00",
+    "brand": "Toshiba",
+    "category": "HDD",
+    "id": 18
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/HDD/Western Digital HDD blue 1TB.png",
+    "model": "Western Digital HDD blue 1TB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,253.00",
+    "brand": "Western Digital",
+    "category": "HDD",
+    "id": 19
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/HDD/Western Digital HDD blue 2TB.png",
+    "model": "Western Digital HDD blue 2TB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,915.00",
+    "brand": "Western Digital",
+    "category": "HDD",
+    "id": 20
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/HDD/Western Digital HDD blue 500GB.png",
+    "model": "Western Digital HDD blue 500GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 1,715.00",
+    "brand": "Western Digital",
+    "category": "HDD",
+    "id": 19
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Acer/Nitro 5 AN515-58-55LG/Nitro5AN515-58(1).png",
+    "model": "Acer Nitro 5 AN515-58-55LG",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 60,799.00",
+    "brand": "Acer",
+    "category": "Laptop",
+    "id": 20
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Acer/Nitro AN515-46-R4W2/NitroAN515-46 (2).png",
+    "model": "Acer Nitro AN515-46-R4W2",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 59,999.00",
+    "brand": "Acer",
+    "category": "Laptop",
+    "id": 21
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Acer/Predator H elios 300 PH16-71-95L8/Acer-Helios-300-PH16-71-95L8 (1).png",
+    "model": "Acer Predator Helios 300 PH16-71-95L8",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 129,999.00",
+    "brand": "Acer",
+    "category": "Laptop",
+    "id": 22
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Acer/Predator Helios 300 PH16-71-72VB/PredatorHelios300-PH16-71 (3).png",
+    "model": "Acer Predator Helios 300 PH16-71-72VB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 109,999.00",
+    "brand": "Acer",
+    "category": "Laptop",
+    "id": 23
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Acer/Swift GO EVO Laptop SFG-14-71-70PY/swift-Go-EVO (1).png",
+    "model": "Acer Swift Go EVO SFG14-71-70PY OPI",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 62,699.00",
+    "brand": "Acer",
+    "category": "Laptop",
+    "id": 24
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Asus/Asus FA617NS-N3079W TUF/FA617NS-N3083W2 (2).png",
+    "model": "Asus FA617NS-N3079W TUF",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 79,999.00",
+    "brand": "Asus",
+    "category": "Laptop",
+    "id": 25
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Asus/Asus FX506HC-HN111W/asus-FX506HC (1).png",
+    "model": "Asus FX506HC-HN111W",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 53,995.00",
+    "brand": "Asus",
+    "category": "Laptop",
+    "id": 26
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Asus/Asus X1402ZA-EB110WS+OFFC H&S/asus-X1402ZA (2).png",
+    "model": "Asus X1402ZA-EB110WS+OFFC H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 38,999.00",
+    "brand": "Asus",
+    "category": "Laptop",
+    "id": 27
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Asus/Asus X1605ZA-MB236WS+OFFC H&S/asus-X1605ZA-MB23 (3).png",
+    "model": "Asus X1605ZA-MB236WS+OFFC H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 50,999.00",
+    "brand": "Asus",
+    "category": "Laptop",
+    "id": 28
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Asus/Asus M1605YA-MB155WS+OFFC H&S/asusM1605YA (5).png",
+    "model": "Asus M1605YA-MB155WS+OFFC H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 37,999.00",
+    "brand": "Asus",
+    "category": "Laptop",
+    "id": 29
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Dell/Dell IN3510 Platinum Silver + OFFC H&S/dell-IN3510 (4).png",
+    "model": "Dell IN3510 Platinum Silver + OFFC H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 32,999.00",
+    "brand": "Dell",
+    "category": "Laptop",
+    "id": 30
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Dell/Dell IN3511 Platinum Silver + OFFC H&S 15.6 fhd/dell-IN3511 (1).png",
+    "model": "Dell IN3511 Platinum Silver + OFFC H&S 15.6 fhd",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 54,999.00",
+    "brand": "Dell",
+    "category": "Laptop",
+    "id": 31
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Dell/Dell IN5410 Peach Dust +OFFC H&S/dell-IN5410=peach (1).png",
+    "model": "Dell IN5410 Peach Dust +OFFC H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 52,999.00",
+    "brand": "Dell",
+    "category": "Laptop",
+    "id": 32
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Dell/Dell IN5510 Platinum Silver + OFFC H&S/dell-IN5510 (2).png",
+    "model": "Dell IN5510 Platinum Silver + OFFC H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 48,999.00",
+    "brand": "Dell",
+    "category": "Laptop",
+    "id": 33
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Dell/Dell XPS 17 9710 TouchScreen Platimun Silver/dell-XPS (3).png",
+    "model": "Dell XPS 17 9710 TouchScreen Platimun Silver",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 199,999.00",
+    "brand": "Dell",
+    "category": "Laptop",
+    "id": 34
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/HP/HP 14-DV2029TX Warm Gold +H&S/hp-14-DV2029TX (1).png",
+    "model": "HP 14-DV2029TX Warm Gold +H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 57,999.00",
+    "brand": "HP",
+    "category": "Laptop",
+    "id": 35
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/HP/HP 15-FC0049AU +OFFC H&S Natural Silver/HP-15-FC0049AU (4).png",
+    "model": "HP 15-FC0049AU +OFFC H&S Natural Silver",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 38,999.00",
+    "brand": "HP",
+    "category": "Laptop",
+    "id": 36
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/HP/HP 15S-FQ2728TU Natural Silver + H&S/hp-FQ2728TU (1).png",
+    "model": "HP 15S-FQ2728TU Natural Silver + H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 32,999.00",
+    "brand": "HP",
+    "category": "Laptop",
+    "id": 37
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/HP/HP ENVY X360 13-BF0110TU +OFFC H&S/HP-ENVY (1).png",
+    "model": "HP ENVY X360 13-BF0110TU +OFFC H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 89,999.00",
+    "brand": "HP",
+    "category": "Laptop",
+    "id": 38
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/HP/HP X360 14-EK0121TU Space Blue +OFFC H&S/HP-X360 (1).png",
+    "model": "HP X360 14-EK0121TU Space Blue +OFFC H&S",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 49,999.00",
+    "brand": "HP",
+    "category": "Laptop",
+    "id": 39
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Lenovo/Legion Pro 7i (16, Gen 8)/LEGION-PRO-7i (3).png",
+    "model": "Legion Pro 7i",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 187,985.75",
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "id": 40
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Lenovo/Legion Slim 7i (16, Gen 8)/LEGION-SLIM (2).png",
+    "model": "Legion Slim 7i",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 144,995.01",
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "id": 41
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Lenovo/LOQ (15, gEN 8)/LOQ-15IRH8 (2).png",
+    "model": "LOQ 15",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 77,995.01",
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "id": 42
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Lenovo/ThinkPad E14 G5/thinkpad-E14-G5 (8).png",
+    "model": "ThinkPad E14 G5",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 67,995.01",
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "id": 43
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Lenovo/ThinkPad E16 G1/THINKPAD-E16-G1 (4).png",
+    "model": "ThinkPad E16 G1",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 72,995.00",
+    "brand": "Lenovo",
+    "category": "Laptop",
+    "id": 44
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/msi/MSI CYBORG 15 A12VE-444PH/CYBORG-15 (5).png",
+    "model": "MSI CYBORG 15 A12VE-444PH",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 70,995.00",
+    "brand": "MSI",
+    "category": "Laptop",
+    "id": 45
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/msi/MSI GF63 THIN 11UCX - 1479PH/MSI-GF63 (2).png",
+    "model": "MSI GF63 THIN 11UCX - 1479PH",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 43,999.00",
+    "brand": "MSI",
+    "category": "Laptop",
+    "id": 46
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/msi/MSI GF63 THIN 12VE-088PH/MSI-GF63-THIN (1).png",
+    "model": "MSI GF63 THIN 12VE-088PH",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 69,995.00",
+    "brand": "MSI",
+    "category": "Laptop",
+    "id": 47
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/msi/MSI Modern 14 C11M-220PH Beige/MSI-MODERN-14 (2).png",
+    "model": "MSI Modern 14 C11M-220PH Beige",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 28,999.00",
+    "brand": "MSI",
+    "category": "Laptop",
+    "id": 48
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/msi/MSI Modern 15 B11M-027PH Classic Black/MSI-MODERN-15 (2).png",
+    "model": "MSI Modern 15 B11M-027PH Classic Black",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 37,999.00",
+    "brand": "MSI",
+    "category": "Laptop",
+    "id": 49
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Deepcool DQ750-M V2L 750W/06-removebg-preview.png",
+    "model": "Deepcool DQ750-M V2L 750W Power Supply Unit (DP-DQ750-M-V2L)",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 5,375.00",
+    "brand": "Deepcool",
+    "category": "PSU",
+    "id": 50
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Deepcool PK550D - 550W/06-44-removebg-preview.png",
+    "model": "Deepcool PK550D - 550W",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,662.00",
+    "brand": "Deepcool",
+    "category": "PSU",
+    "id": 51
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Deepcool PX1000G ATX 3.0/32_original-removebg-preview.png",
+    "model": "Deepcool PX1000G ATX 3.0",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 10,000.00",
+    "brand": "Deepcool",
+    "category": "PSU",
+    "id": 52
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Gigabyte Aorus P1200W Platinum/17-233-033-V03-removebg-preview.png",
+    "model": "Gigabyte Aorus P1200W Platinum",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 18,530.00",
+    "brand": "Gigabyte",
+    "category": "PSU",
+    "id": 53
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Gigabyte GP-P650B 650W 80+ Bronze PSU/1000__3_-removebg-preview.png",
+    "model": "Gigabyte GP-P650B 650W 80+ Bronze PSU",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,099.00",
+    "brand": "Gigabyte",
+    "category": "PSU",
+    "id": 54
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Gigabyte GP-UD1000GM-PG5 1000W/17-233-034-V07-removebg-preview.png",
+    "model": "Gigabyte GP-UD1000GM-PG5 1000W PCIe 5.0 80 Plus Gold Certified Fully Modular Power Supply",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 9,250.00",
+    "brand": "Gigabyte",
+    "category": "PSU",
+    "id": 55
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Gigabyte P550B 80 PLUS Bronze/Gigabyte P550B (1).png",
+    "model": "Gigabyte P550B 80 PLUS Bronze certified 550 Watts Power Supply Unit",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,531.45",
+    "brand": "Gigabyte",
+    "category": "PSU",
+    "id": 56
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Gigabyte UD750GM - 750W/17-233-037-V07-removebg-preview.png",
+    "model": "Gigabyte UD750GM - 750W, Active PFC, ATX 12V, Ultra Durable 80 PLUS Gold certified PSU (GP-UD750GM)",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 5,499.00",
+    "brand": "Gigabyte",
+    "category": "PSU",
+    "id": 57
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Gigabyte UD850GM - 850W/17-233-036-V07-removebg-preview.png",
+    "model": "Gigabyte UD850GM - 850W, Active PFC, Ultra Durable 80 PLUS Gold certified PSU - GP-UD850GM",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 6,052.80",
+    "brand": "Gigabyte",
+    "category": "PSU",
+    "id": 58
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Power Supply/Gigabyte UD1300GM 1300W/17-233-042-07-removebg-preview.png",
+    "model": "Gigabyte UD1300GM 1300W 80+ Gold PCIe Gen5 ATX3.0 Modular PSU (GP-UD1300GM PG5)",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 14,789.00",
+    "brand": "Gigabyte",
+    "category": "PSU",
+    "id": 59
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/AMD Ryzen 3 3200G (2).png",
+    "model": "AMD Ryzen™ 3 3200G",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 4,999.00",
+    "brand": "Gigabyte",
+    "category": "PSU",
+    "id": 60
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/AMD Ryzen 5 5600X.png",
+    "model": "AMD Ryzen™ 5 5600X",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 8,780.00",
+    "brand": "AMD",
+    "category": "CPU",
+    "id": 61
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/AMD Ryzen 5 5700x.png",
+    "model": "AMD Ryzen 5 5700x",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 10,299.00",
+    "brand": "AMD",
+    "category": "CPU",
+    "id": 62
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/AMD Ryzen 7 5700X.png",
+    "model": "AMD Ryzen 7 5700X",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 10,695.00",
+    "brand": "AMD",
+    "category": "CPU",
+    "id": 63
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/AMD Ryzen 7 5800X.png",
+    "model": "AMD Ryzen 7 5800X",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 13,795.00",
+    "brand": "AMD",
+    "category": "CPU",
+    "id": 64
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/AMD Ryzen 9 7900.png",
+    "model": "AMD Ryzen 9 7900",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 26,999.00",
+    "brand": "AMD",
+    "category": "CPU",
+    "id": 65
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/Intel Core i3-12100F.png",
+    "model": "Intel Core i3-12100F",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 4,998.00",
+    "brand": "Intel",
+    "category": "CPU",
+    "id": 66
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/Intel Core i3-13100F.png",
+    "model": "Intel Core i3-13100F",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 7,625.00",
+    "brand": "Intel",
+    "category": "CPU",
+    "id": 67
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/Intel Core i5-13400F.png",
+    "model": "Intel Core i5-13400F",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 12,799.00",
+    "brand": "Intel",
+    "category": "CPU",
+    "id": 68
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/Intel Core i7-13700K.png",
+    "model": "Intel Core i7-13700K",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 26,295.00",
+    "brand": "Intel",
+    "category": "CPU",
+    "id": 69
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/Intel Core i9 13900K.png",
+    "model": "Intel Core i9 13900K",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 38,599.00",
+    "brand": "Intel",
+    "category": "CPU",
+    "id": 70
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/Intel I9 12900K.png",
+    "model": "Intel Core i9-12900K",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 27,968.00",
+    "brand": "Intel",
+    "category": "CPU",
+    "id": 71
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/RAM/Kingston FURY Beast DDR4 RGB.png",
+    "model": "Kingston FURY Beast DDR4 RGB 8GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 1,550.00",
+    "brand": "Kingston",
+    "category": "RAM",
+    "id": 72
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/RAM/Kingston FURY Beast DDR4.png",
+    "model": "Kingston FURY Beast DDR4 8GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,050.00",
+    "brand": "Kingston",
+    "category": "RAM",
+    "id": 73
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/RAM/Kingston FURY Beast DDR5 RGB.png",
+    "model": "Kingston FURY Beast DDR5 RGB 8GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,695.00",
+    "brand": "Kingston",
+    "category": "RAM",
+    "id": 74
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/RAM/Kingston FURY Beast DDR5.png",
+    "model": "Kingston FURY Beast DDR5 8GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 6,850.00",
+    "brand": "Kingston",
+    "category": "RAM",
+    "id": 75
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/RAM/Team_Elite DARK Za BLACK DDR4.png",
+    "model": "Team Elite DARK Za BLACK DDR4 8GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,254.00",
+    "brand": "Team Group",
+    "category": "RAM",
+    "id": 76
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/RAM/Team-group DELTA RGB DDR4.png",
+    "model": "Team-group DELTA RGB DDR4 8GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,099.00",
+    "brand": "Team Group",
+    "category": "RAM",
+    "id": 77
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/RAM/Team-group DELTA RGB DDR5.png",
+    "model": "Team-group DELTA RGB DDR5 8GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 4,099.00",
+    "brand": "Team Group",
+    "category": "RAM",
+    "id": 78
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/SSD/Kingston NV2 1TB M.2 2280 PCIe4.0x4 NVMe SSD.png",
+    "model": "Kingston NV2 1TB M.2 2280 PCIe4.0x4 NVMe SSD",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,199.00",
+    "brand": "Kingston",
+    "category": "SSD",
+    "id": 79
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/SSD/Kingston SSD A400 SSD.png",
+    "model": "Kingston SSD A400 SSD 240GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 1,429.00",
+    "brand": "Kingston",
+    "category": "SSD",
+    "id": 80
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/SSD/Ramsta S800 2.5 SATA 3 SSD.png",
+    "model": "Ramsta S800 2.5 SATA 3 SSD 256GB",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 789.00",
+    "brand": "Kingston",
+    "category": "SSD",
+    "id": 81
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/SSD/Samsung 970 EVO Plus 1TB NVMe M.2 PCIe.png",
+    "model": "Samsung 970 EVO Plus 1TB NVMe M.2 PCIe Gen 3.0 x4 Internal Solid State Drive",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,199.00",
+    "brand": "Kingston",
+    "category": "SSD",
+    "id": 82
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asrock/A320M-HDV/A320M-HDV1.png",
+    "model": "Asrock A320M-HDV",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 4,586.00",
+    "brand": "Asrock",
+    "category": "Motherboard",
+    "id": 83
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asrock/B250M Pro4/B250M_Pro4_L1_-removebg-preview.png",
+    "model": "Asrock B250M Pro4",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,999.00",
+    "brand": "Asrock",
+    "category": "Motherboard",
+    "id": 84
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asrock/B450 Steel Legend/B450_Steel_Legend_L1_-removebg-preview.png",
+    "model": "Asrock B450 Steel Legend",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 5,669.00",
+    "brand": "Asrock",
+    "category": "Motherboard",
+    "id": 85
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asrock/B450M Steel Legend/B450M_Steel_Legend_L1_-removebg-preview.png",
+    "model": "Asrock B450M Steel Legend",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 5,914.00",
+    "brand": "Asrock",
+    "category": "Motherboard",
+    "id": 86
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asrock/Z370 Pro4/Z370_Pro4_L1_-removebg-preview.png",
+    "model": "Asrock Z370 Pro4",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 4,646.00",
+    "brand": "Asrock",
+    "category": "Motherboard",
+    "id": 87
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asus/EX-A320M-Gaming/1001-removebg-preview.png",
+    "model": "Asus EX-A320M-Gaming",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,960.00",
+    "brand": "Asus",
+    "category": "Motherboard",
+    "id": 88
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asus/Prime A320M-K/23-removebg-preview.png",
+    "model": "Asus Prime A320M-K",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,350.00",
+    "brand": "Asus",
+    "category": "Motherboard",
+    "id": 89
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asus/Prime Z390-A/33-removebg-preview.png",
+    "model": "Asus Prime Z390-A",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 14,045.00",
+    "brand": "Asus",
+    "category": "Motherboard",
+    "id": 90
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asus/ROG Rampage II Extreme/53-removebg-preview.png",
+    "model": "Asus ROG Rampage II Extreme",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 20,349.00",
+    "brand": "Asus",
+    "category": "Motherboard",
+    "id": 91
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asus/X99-Deluxe/X99-Deluxe-6-removebg-preview.png",
+    "model": "Asus X99-Deluxe",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 19,330.00",
+    "brand": "Asus",
+    "category": "Motherboard",
+    "id": 92
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Asus/Z170 Pro Gaming/Z170_Pro_Gaming-4-removebg-preview.png",
+    "model": "Asus Z170 Pro Gaming",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 8,427.00",
+    "brand": "Asus",
+    "category": "Motherboard",
+    "id": 93
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Colorful/C.A320M-K Pro V14/990-removebg-preview.png",
+    "model": "Colorful C.A320M-K Pro V14",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,977.00",
+    "brand": "Colorful",
+    "category": "Motherboard",
+    "id": 94
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Gigabyte/B450 Aorus Elite/21214-removebg-preview.png",
+    "model": "Gigabyte B450 Aorus Elite",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 7,192.00",
+    "brand": "Gigabyte",
+    "category": "Motherboard",
+    "id": 95
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Gigabyte/GA-H110-D3A/GA-H110-D3A-4-removebg-preview.png",
+    "model": "Gigabyte GA-H110-D3A",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,140.00",
+    "brand": "Gigabyte",
+    "category": "Motherboard",
+    "id": 96
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Gigabyte/GA-H110M-DS2/GA-H110M-DS2-4-removebg-preview.png",
+    "model": "Gigabyte GA-H110M-DS2",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 5,519.00",
+    "brand": "Gigabyte",
+    "category": "Motherboard",
+    "id": 97
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Gigabyte/Gigabyte GA-A320M-S2H/GA-A320M-S2H-5-removebg-preview.png",
+    "model": "Gigabyte GA-A320M-S2H",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 3,144.00",
+    "brand": "Gigabyte",
+    "category": "Motherboard",
+    "id": 98
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Gigabyte/Z370P D3/Z370P_D3-5-removebg-preview.png",
+    "model": "Gigabyte Z370P D3",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 7,800.00",
+    "brand": "Gigabyte",
+    "category": "Motherboard",
+    "id": 99
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/Gigabyte/Z390 UD/Z390_UD-5-removebg-preview.png",
+    "model": "Gigabyte Z390 UD",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 7,020.00",
+    "brand": "Gigabyte",
+    "category": "Motherboard",
+    "id": 100
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/MSI/A320MH/b20190603_1-removebg-preview.png",
+    "model": "Biostar A320MH",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,699.00",
+    "brand": "Biostar",
+    "category": "Motherboard",
+    "id": 101
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/MSI/B350M Gaming Pro/1024-removebg-preview.png",
+    "model": "MSI B350M Gaming Pro",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 4,288.00",
+    "brand": "MSI",
+    "category": "Motherboard",
+    "id": 102
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/MSI/B450M Pro-VDH/B450M_Pro-VDH-5-removebg-preview.png",
+    "model": "MSI B450M Pro-VDH",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 4,579.00",
+    "brand": "MSI",
+    "category": "Motherboard",
+    "id": 103
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/MSI/H110M PRO-VH Plus/H110M_PRO-VH_Plus-5-removebg-preview.png",
+    "model": "MSI H110M PRO-VH Plus",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 2,763.00",
+    "brand": "MSI",
+    "category": "Motherboard",
+    "id": 104
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/MSI/MPG X570 Gaming Edge Wifi/49731226-removebg-preview.png",
+    "model": "MSI MPG X570 Gaming Edge Wifi",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 11,415.00",
+    "brand": "MSI",
+    "category": "Motherboard",
+    "id": 105
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Motherboard/MSI/Z390-A Pro/Z390-A_Pro-5-removebg-preview.png",
+    "model": "MSI Z390-A Pro",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 6,599.00",
+    "brand": "MSI",
+    "category": "Motherboard",
+    "id": 106
+  }
+]
