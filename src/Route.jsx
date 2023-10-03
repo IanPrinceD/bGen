@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 import Product from "./pages/Product";
 import Pricelist from "./pages/Pricelist";
 import Brand from "./pages/Brand";
+import BuyNow from "./components/BuyNow";
 
 function Route() {
   const router = createBrowserRouter([
@@ -21,6 +22,10 @@ function Route() {
     {
       path: '/brand',
       element: <Brand />,
+    },
+    {
+      path: '/buynow',
+      element: <BuyNow />,
     },
   ]);
 

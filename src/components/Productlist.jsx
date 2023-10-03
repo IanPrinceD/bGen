@@ -764,6 +764,7 @@ export const BestSellerCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 60,799',
     Category: 'Laptop',
+    id: 1
   },
   {
     Image: '../src/assets/images/PNG/Product/Motherboard/Asrock/A320M-HDV/A320M-HDV1.png',
@@ -771,6 +772,7 @@ export const BestSellerCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 2,200',
     Category: 'Motherboard',
+    id: 2
   },
   {
     Image: '../src/assets/images/PNG/Product/Processor/AMD Ryzen 9 7900.png',
@@ -778,6 +780,7 @@ export const BestSellerCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 26,999',
     Category: 'Processor',
+    id: 3
   },
   {
     Image: '../src/assets/images/PNG/Product/RAM/Kingston FURY Beast DDR4 RGB.png',
@@ -785,6 +788,7 @@ export const BestSellerCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 7,749',
     Category: 'RAM',
+    id: 4
   },
   {
     Image: '../src/assets/images/PNG/Product/Power Supply/Gigabyte Aorus P1200W Platinum/17-233-033-V08(1).png',
@@ -792,6 +796,7 @@ export const BestSellerCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 18,530',
     Category: 'Power Supply',
+    id: 5
   },
 //   {
 //     Image: 'src/assets/Product/GPU/MSI GeForce RTX 4090 SUPRIM X 24G.png',
@@ -831,6 +836,7 @@ export const NewArrivalsCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 38,599',
     Category: 'Processor',
+    id: 1
   },
   {
     Image: '../src/assets/images/PNG/Product/GPU/ASUS DUAL GeForce RTX 4060 Ti 8GB.png',
@@ -838,6 +844,7 @@ export const NewArrivalsCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 30,530',
     Category: 'GPU',
+    id: 2
   },
   {
     Image: '../src/assets/images/PNG/Product/RAM/Team-group DELTA RGB DDR4.png',
@@ -845,6 +852,7 @@ export const NewArrivalsCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 6,350',
     Category: 'RAM',
+    id: 3
   },
   {
     Image: '../src/assets/images/PNG/Product/HDD/Western Digital HDD blue 1TB.png',
@@ -852,6 +860,7 @@ export const NewArrivalsCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 2,790',
     Category: 'HDD',
+    id: 4
   },
   {
     Image:
@@ -860,6 +869,7 @@ export const NewArrivalsCard = [
     Rating: '⭐⭐⭐⭐⭐',
     Price: 'PHP 1,688',
     Category: 'SSD',
+    id: 5
   },
 //   {
 //     Image:
