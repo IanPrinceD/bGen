@@ -1,20 +1,30 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
-import 'swiper/css';
+import { EffectFade, Autoplay, Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
+import 'swiper/swiper-bundle.css';
+import '../css/carousel.css';
 
-const Carousel = () => {
+export const Carousel = ({ slides }) => {
   return (
     <Swiper
-      spaceBetween={50}
+      modules={[EffectFade, Autoplay, Navigation, Pagination, Scrollbar, A11y]}
+      spaceBetween={1}
       slidesPerView={1}
+      navigation
+      effect={'fade'}
+      autoplay={{
+        delay: 2500,
+        disableOnInteraction: false,
+      }}
+      loop={true}
+      pagination={{ clickable: true }}
       onSlideChange={() => console.log('slide change')}
       onSwiper={(swiper) => console.log(swiper)}
     >
-      <SwiperSlide>Slide 1</SwiperSlide>
-      <SwiperSlide>Slide 2</SwiperSlide>
-      <SwiperSlide>Slide 3</SwiperSlide>
-      <SwiperSlide>Slide 4</SwiperSlide>
+      {slides.map((slide) => (
+        <SwiperSlide key={slide.image}>
+          <img className="slider-img" src={slide.image} alt={slide.title} />
+        </SwiperSlide>
+      ))}
     </Swiper>
   );
 };
-
-export default Carousel;
