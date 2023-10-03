@@ -7,21 +7,21 @@ import ProductCards from '../components/ProductCards';
 const Product = () => {
   return (
     <>
-      <Header />
       <div className="body">
+        <Header />
         <div className="main">
           <section className="productContainer">
             <h1>Products</h1>
-            <div className='filterContainer'>
-              <Filter/>
+            <div className="filterContainer">
+              <Filter />
             </div>
-            <div className='cardContainer'>
-              <ProductCards/>
+            <div className="cardContainer">
+              <ProductCards />
             </div>
-          </section> 
+          </section>
         </div>
+        <Footer />
       </div>
-      <Footer />
     </>
   );
 };
