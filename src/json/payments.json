@@ -1,0 +1,30 @@
+[
+  {
+    "image": "../src/assets/images/PNG/Product/MOD/billease.png",
+    "title": "billease"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/MOD/COD.png",
+    "title": "cash on delivery"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/MOD/Gcash.png",
+    "title": "Gcash"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/MOD/Grabpay.png",
+    "title": "Grabpay"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/MOD/mastercard.png",
+    "title": "mastercard"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/MOD/paymaya.png",
+    "title": "paymaya"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/MOD/visa.png",
+    "title": "visa"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "image": "../src/assets/images/JPG/Carousel/Slider 1.jpg",
+    "title": "Product Promotion"
+  },
+  {
+    "image": "../src/assets/images/JPG/Carousel/Slider 2.jpg",
+    "title": "Back to School Promo"
+  },
+  {
+    "image": "../src/assets/images/JPG/Carousel/Slider 3.jpg",
+    "title": "Happy Customers"
+  }
+]

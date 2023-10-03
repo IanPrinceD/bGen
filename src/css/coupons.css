@@ -1,0 +1,17 @@
+.coupon-container {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+ align-items: center;
+ margin: 10px auto;
+}
+
+.coupon-img {
+ width: 20%;
+}
+
+.coupon-img:hover {
+ -webkit-opacity: 60%;
+ opacity: 0.60;
+ transition-duration: 1s;
+}
