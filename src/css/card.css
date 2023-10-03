@@ -1,4 +1,15 @@
-.BestSellerContent, .NewArrivalContent {
+:root {
+  --c-b: #006d77;
+  --c-lg: #e0e2db;
+  --c-db: #022859;
+  --c-gr: #727272;
+  --c-be: #ea9080;
+  --f-o: Oswald;
+  --f-p: Play;
+}
+
+.BestSellerContent,
+.NewArrivalContent {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-column-gap: 25px;
@@ -11,7 +22,9 @@
   grid-row-gap: 25px;
   grid-column-gap: 25px;
 }
-.bsCard, .naCard, .plCard {
+.bsCard,
+.naCard,
+.plCard {
   height: 450px;
   border: solid;
   border-width: 1px;
@@ -24,12 +37,15 @@
   grid-template-rows: 250px 150px;
   grid-row-gap: 10px;
 }
-.bsCard img, .naCard img, .plCard img {
+.bsCard img,
+.naCard img,
+.plCard img {
   width: 70%;
   object-fit: cover;
   padding-top: 20px;
   margin: 0 auto;
 }
+
 button {
   border-radius: 8px;
   width: 80px;
@@ -37,20 +53,26 @@ button {
   background-color: #022859;
   color: #e0e2db;
   cursor: pointer;
-  margin-top: 10px;
 }
+
+button:hover {
+  background-color: var(--c-be);
+}
+
 .textBox i {
   font-size: 22px;
-  margin-left: 20px;
   padding-top: 10px;
   color: #022859;
 }
-.buttonIcon {
-  margin: 0 auto;
+
+.textBox i:hover {
+  color: var(--c-be);
 }
+
 h4 {
   padding-top: 5px;
 }
+
 h3 {
   padding-top: 5px;
 }

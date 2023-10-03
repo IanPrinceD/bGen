@@ -50,62 +50,77 @@ const BestSeller = (props) =>{
     // //     getBSProduct(id)
     // // }
     return (
-        <>
-        {/* <ReactContext> */}
+      <>
         <section className="bsCard">
-            <img src={Image} alt="" />
-            <div className="textBox">
-                <h3>{Model}</h3>
-                <h4>{Rating}</h4>
-                <p>{Price}</p>
-                <div className="buttonIcon">
-                    <a href="/BuyNow"><button type='submit' name='submit'>Buy Now</button></a>
-                    <i className="fa-solid fa-cart-shopping"></i>
-                    <i className="fa-regular fa-heart"></i>
-                </div>
+          <img src={Image} alt="" />
+          <div className="textBox">
+            <h3>{Model}</h3>
+            <h4>{Rating}</h4>
+            <p>{Price}</p>
+            <div className="e-btn">
+              <a className="icon-btn" href="/BuyNow">
+                <button>Buy Now</button>
+              </a>
+              <a className="icon-btn" href="">
+                <i className="fa-solid fa-cart-shopping"></i>
+              </a>
+              <a className="icon-btn" href="">
+                <i className="fa-regular fa-heart"></i>
+              </a>
             </div>
+          </div>
         </section>
-        {/* </ReactContext> */}
-        {/* onClick={() => newFunction(id)} */}
-        </>
-    )
+      </>
+    );
 }
 const NewArrival = ({NACard: {Image, Model, Rating, Price}}) =>{
     return (
-        <>
+      <>
         <section className="naCard">
-            <img src={Image} alt="" />
-            <div className="textBox">
-                <h3>{Model}</h3>
-                <h4>{Rating}</h4>
-                <p>{Price}</p>
-                <div className="e-btn">
-                    <button>Buy Now</button>
-                    <i className="fa-solid fa-cart-shopping"></i>
-                    <i className="fa-regular fa-heart"></i>
-                </div>
+          <img src={Image} alt="" />
+          <div className="textBox">
+            <h3>{Model}</h3>
+            <h4>{Rating}</h4>
+            <p>{Price}</p>
+            <div className="e-btn">
+              <a className="icon-btn" href="/BuyNow">
+                <button>Buy Now</button>
+              </a>
+              <a className="icon-btn" href="">
+                <i className="fa-solid fa-cart-shopping"></i>
+              </a>
+              <a className="icon-btn" href="">
+                <i className="fa-regular fa-heart"></i>
+              </a>
             </div>
+          </div>
         </section>
-        </>
-    )
+      </>
+    );
 }
 const ProductList = ({productList: {Image, Model, Rating, Price}}) =>{
     return (
-        <>
+      <>
         <section className="plCard">
-            <img src={Image} alt="" />
-            <div className="textBox">
-                <h3>{Model}</h3>
-                <h4>{Rating}</h4>
-                <p>{Price}</p>
-                <div className="buttonIcon">
-                    <button>Buy Now</button>
-                    <i className="fa-solid fa-cart-shopping"></i>
-                    <i className="fa-regular fa-heart"></i>
-                </div>
+          <img src={Image} alt="" />
+          <div className="textBox">
+            <h3>{Model}</h3>
+            <h4>{Rating}</h4>
+            <p>{Price}</p>
+            <div className="e-btn">
+              <a className="icon-btn" href="/BuyNow">
+                <button>Buy Now</button>
+              </a>
+              <a className="icon-btn" href="">
+                <i className="fa-solid fa-cart-shopping"></i>
+              </a>
+              <a className="icon-btn" href="">
+                <i className="fa-regular fa-heart"></i>
+              </a>
             </div>
+          </div>
         </section>
-        </>
-    )
+      </>
+    );
 }
 export default ProductCards

@@ -1,0 +1,38 @@
+:root {
+  --c-b: #006d77;
+  --c-lg: #e0e2db;
+  --c-db: #022859;
+  --c-gr: #727272;
+  --c-be: #ea9080;
+  --f-o: Oswald;
+  --f-p: Play;
+}
+
+.header-container,
+.body-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 5fr 1fr;
+}
+
+.header-container {
+  background-color: var(--c-lg);
+}
+
+.header-container h4,
+.body-container p {
+  text-align: center;
+  margin: auto 0;
+  padding: 5px 0;
+}
+
+.body-container:nth-child(even) {
+  background-color: var(--c-lg);
+}
+
+.header-container {
+  border-bottom: solid 1px;
+}
+
+.border {
+  border: solid 1px;
+}

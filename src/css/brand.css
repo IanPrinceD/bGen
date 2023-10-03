@@ -1,0 +1,38 @@
+.hero {
+ width: 100%;
+}
+
+.brand-text {
+ text-align: center;
+ width: 85%;
+ margin: 10px auto;
+}
+
+.brand-text p {
+ margin: 10px auto 15px;
+}
+
+.chips-container {
+ width: 100%;
+ background-image: url("/src/assets/images/JPG/Brand/chips.jpg");
+ padding: 20px;
+ background-size: cover;
+}
+
+.chips {
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ row-gap: 20px;
+ padding: 10px auto;
+}
+
+.chips img {
+ width: 50%;
+ margin: auto;
+}
+
+@media screen and (max-width: 965px) {
+ .hero {
+  margin-top: -27px;
+ }
+}
