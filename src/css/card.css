@@ -37,13 +37,18 @@ button {
   background-color: #022859;
   color: #e0e2db;
   cursor: pointer;
+  margin-top: 10px;
+  position: relative;
+  left: 40px;
 }
-/* i {
+.textBox i {
   font-size: 22px;
   margin-left: 20px;
   padding-top: 10px;
   color: #022859;
-} */
+  position: relative;
+  left: 50px;
+}
 h4 {
   padding-top: 5px;
 }
