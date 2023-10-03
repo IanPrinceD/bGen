@@ -1,0 +1,50 @@
+:root {
+  --c-b: #006d77;
+  --c-lg: #e0e2db;
+  --c-db: #022859;
+  --c-gr: #727272;
+  --c-be: #ea9080;
+  --f-o: Oswald;
+  --f-p: Play;
+}
+
+.lcards-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 25px;
+  margin: 15px 40px;
+}
+
+.lcard-container {
+  height: 450px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 23);
+  padding: 1rem;
+  text-align: center;
+  align-items: center;
+  display: grid;
+  grid-template-rows: 250px 150px;
+  grid-row-gap: 10px;
+  background-color: #fff;
+}
+
+.lcard-img {
+  width: 60%;
+  object-fit: cover;
+  padding-top: 20px;
+  margin: 0 auto;
+}
+
+.le-btn {
+ margin-top: 5px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.licon-btn {
+ margin: 0 5px;
+ color: var(--c-db);
+}

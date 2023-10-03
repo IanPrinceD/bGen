@@ -2,7 +2,7 @@ import '../css/coupons.css';
 
 export const Coupons = ({ coupons }) => {
   return (
-    <div>
+    <>
       <section className="coupon-container">
         {coupons.map((coupons) => (
           <img
@@ -13,6 +13,6 @@ export const Coupons = ({ coupons }) => {
           />
         ))}
       </section>
-    </div>
+    </>
   );
 };

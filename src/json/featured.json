@@ -1,0 +1,37 @@
+[
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Lenovo/Legion Pro 7i (16, Gen 8)/LEGION-PRO-7i (3).png",
+    "model": "Legion Pro 7i",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 187,985.75",
+    "category": "laptop"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/AMD Ryzen 9 7900.png",
+    "model": "AMD Ryzen 9 7900",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 26,999.00",
+    "category": "cpu"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Laptop/Lenovo/LOQ (15, gEN 8)/LOQ-15IRH8 (2).png",
+    "model": "LOQ 15",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 77,995.01",
+    "category": "laptop"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/Processor/Intel Core i9 13900K.png",
+    "model": "Intel Core i9 13900K",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 38,599.00",
+    "category": "cpu"
+  },
+  {
+    "image": "../src/assets/images/PNG/Product/GPU/MSI GeForce RTX 4090 SUPRIM X 24G.png",
+    "model": "MSI GeForce RTX 4090 SUPRIM X 24G",
+    "rating": "⭐⭐⭐⭐⭐",
+    "price": "PHP 116,995",
+    "category": "GPU"
+  }
+]

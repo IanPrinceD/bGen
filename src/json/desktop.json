@@ -1,0 +1,16 @@
+[
+ {
+   "image": "../src/assets/images/PNG/Product/Processor/AMD Ryzen 9 7900.png",
+   "model": "AMD Ryzen 9 7900",
+   "rating": "⭐⭐⭐⭐⭐",
+   "price": "PHP 26,999.00",
+   "category": "cpu"
+ },
+ {
+   "image": "../src/assets/images/PNG/Product/GPU/ASUS DUAL GeForce RTX 4060 Ti 8GB.png",
+   "model": "ASUS DUAL GeForce RTX 4060 Ti 8GB",
+   "rating": "⭐⭐⭐⭐⭐",
+   "price": "PHP 27,510.00",
+   "category": "gpu"
+ }
+]

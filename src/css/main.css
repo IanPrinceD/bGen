@@ -31,3 +31,28 @@
 .main {
   margin-top: 120px;
 }
+
+.flash-sale-container {
+  background-color: var(--c-lg);
+  padding: 10px 0;
+}
+
+.flash-sale-container-text {
+  margin-left: 15px;
+}
+
+.computer-container {
+  background-color: var(--c-lg);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.desktops-container, .laptops-container {
+  background-color: var(--c-gr);
+  border-radius: 15px;
+  padding: 10px;
+  max-width: 47%;
+}

@@ -2,7 +2,7 @@ import '../css/payments.css';
 
 export const Payments = ({ payments }) => {
   return (
-    <div>
+    <>
       <section className="payment-container">
           {payments.map((payments) => (
             <img
@@ -13,6 +13,6 @@ export const Payments = ({ payments }) => {
             />
           ))}
       </section>
-    </div>
+    </>
   );
 };
